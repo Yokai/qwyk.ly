@@ -1,0 +1,11 @@
+email: cadsoakley@gmail.com
+fullname: cads
+title: cads
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$g3RS55lLYLgQTJSU9LhteOxZa9PR6/vZEXOIgFfnCMy9sEE10Y.Oq
