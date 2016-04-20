@@ -20,7 +20,7 @@ form:
             required: true
 
         - name: email
-          label: Email
+          label: Email (never shown)
           placeholder: Enter your email address
           type: email
           validate:
